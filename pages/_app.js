@@ -7,7 +7,7 @@ function Marketplace({ Component, pageProps }) {
   return (
     <div>
       <nav className="border-b p-6 bg-black">
-        <p className="text-4xl font-bold text-white">CineCapsule 3.0</p>
+        <p className="text-4xl font-bold text-white">PolyMarket 1.0</p>
         <p className="text-2xl mb-4 text-gray-400">
         Marketplace to access to film production through blockchain
 {" "}

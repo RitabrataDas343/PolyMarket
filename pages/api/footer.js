@@ -67,7 +67,7 @@ export default function Footer() {
             <nav className="list-none mb-10">
               <li>
                 <a
-                  href=" https://www.facebook.com/cinecapsuleofficial
+                  href=" https://www.facebook.com/hunbe.sdre.9/
                   "
                   className="text-white hover:text-red-400"
                 >
@@ -76,7 +76,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://www.instagram.com/cine_capsule/
+                  href="https://www.instagram.com/t.h.e.s.k.y.w.a.l.k.e.r/
                   "
                   className="text-white hover:text-red-400"
                 >
@@ -85,7 +85,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href=" https://twitter.com/cine_capsule
+                  href=" https://twitter.com/TheSkywalker343
                   "
                   className="text-white hover:text-red-400"
                 >
@@ -110,7 +110,7 @@ export default function Footer() {
             <nav className="list-none mb-10">
               <li>
                 <a
-                  href="https://github.com/Margotte83/Kryptopixel-marketplace"
+                  href="https://github.com/RitabrataDas343/PolyMarket"
                   className="text-white hover:text-red-400"
                 >
                   Github
@@ -158,7 +158,7 @@ export default function Footer() {
           >
             <i className="fas fa-cubes fa-lg text-purple-500"></i>
             <span className="ml-3 text-ms">
-              How to use CineCapsule 3.0?
+              How to use PolyMarket 1.0?
               <p className="text-white">
                 Connect your Metamask wallet to use this DApp. Polygon-Mainnet
                 or Mumbai-Testnet network is required.
@@ -179,14 +179,14 @@ export default function Footer() {
         "
         >
           <p className="text-white text-sm text-center sm:text-left">
-            CineCapsule 3.0 © 2021 Copyright | Built with ❤️ by :
+            PolyMarket 1.0 © 2021 Copyright | Built with ❤️ by :
             <a
               href=""
               className="text-gray-100 ml-1 hover:text-red-400"
               target="_blank"
               rel="noreferrer"
             >
-              CineCapsule Dev Team
+              Ritabrata Das
             </a>
           </p>
           <span
